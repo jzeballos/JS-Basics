@@ -63,8 +63,8 @@ function welcome() {
 
 //Create a function called myName that returns your name
 
-  function  myName () {
-    return "Jorge";
+  function  myName() {
+    return 'Jorge';
   }
 
 
