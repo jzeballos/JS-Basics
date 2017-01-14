@@ -45,8 +45,7 @@ function welcome() {
 
 //What is the difference between arguments and parameters?
 
-  //Answer Here
-
+  arguments are like variables that a function will use, parameters are the actual values that te parameters will have
 
 //////////////////PROBLEM 5////////////////////
 
@@ -55,8 +54,7 @@ function welcome() {
 //What are all the falsy values in JavaScript and how do you check if something is falsy?
 
 
-  //Answer Here
-
+  A falsy value is a value that will be false by default when its evaluated. Instead of using ==, use ===
 
 
 //////////////////PROBLEM 6////////////////////
@@ -65,13 +63,15 @@ function welcome() {
 
 //Create a function called myName that returns your name
 
-  //Code Here
+  function  myName () {
+    return "Jorge";
+  }
 
 
 
 //Now save the function definition of myName into a new variable called newMyName
 
-  //Code Here
+  var newMyName = myName();
 
 //Now alert the result of invoking newMyName
 
