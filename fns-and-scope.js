@@ -63,20 +63,20 @@ function welcome() {
 
 //Create a function called myName that returns your name
 
-  function  myName() {
-    var name="Jorge";
-    return name;
-  }
+  // function  myName() {
+  //   var name="Jorge";
+  //   return name;
+  // }
 
 
 
 //Now save the function definition of myName into a new variable called newMyName
 
-  new var newMyName = myName();
+  // new var newMyName = myName();
 
 //Now alert the result of invoking newMyName
 
-alert(newMyNAme);
+// alert(newMyNAme);
 
 
 //////////////////PROBLEM 7////////////////////
