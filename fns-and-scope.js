@@ -33,8 +33,8 @@ function getName() {
 //then alerts "Welcome, " plus whatever the users name is.
 
 function welcome() {
-  var name1 = getName;
-  return "Welcome, " + name1;
+  var name1 = getName();
+  alert("Welcome, " + name1);
 }
 
 
