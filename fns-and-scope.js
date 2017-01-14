@@ -75,6 +75,7 @@ function welcome() {
 
 //Now alert the result of invoking newMyName
 
+alert(newMyNAme);
 
 
 //////////////////PROBLEM 7////////////////////
