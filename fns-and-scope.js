@@ -32,9 +32,10 @@ function getName() {
 //Create a function called welcome that uses your getName function you created in the previous problem to get the users name,
 //then alerts "Welcome, " plus whatever the users name is.
 
-function welcome()
+function welcome() {
   var name1 = getName;
-  return "Welcome, " + name1; 
+  return "Welcome, " + name1;
+}
 
 
 //////////////////PROBLEM 4////////////////////
