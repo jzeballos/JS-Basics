@@ -71,7 +71,7 @@ function welcome() {
 
 //Now save the function definition of myName into a new variable called newMyName
 
-  var newMyName = myName();
+  new var newMyName = myName();
 
 //Now alert the result of invoking newMyName
 
