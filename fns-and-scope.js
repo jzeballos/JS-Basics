@@ -63,10 +63,9 @@ function welcome() {
 
 //Create a function called myName that returns your name
 
-  // function  myName() {
-  //   var name="Jorge";
-  //   return name;
-  // }
+  function  myName() {
+    return "Jorge";
+  }
 
 
 
