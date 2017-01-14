@@ -71,7 +71,7 @@ function welcome() {
 
 //Now save the function definition of myName into a new variable called newMyName
 function newMyName() {
-  
+
 }
 var newMyName = myName();
 
@@ -96,4 +96,4 @@ function outerFn() {
 
   var innerFn = outerFn();
 //Now invoke innerFn.
-aler(innerFn);
+alert(innerFn);
